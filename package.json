@@ -1,0 +1,12 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "novedades ecmascript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis Toribio",
+  "license": "ISC"
+}
