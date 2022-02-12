@@ -60,7 +60,7 @@ console.log(globalThis);
 
 // “Falsey” son ‘undefined’, ‘null’, ‘false’ y ‘NaN’.
 
-// Pero si quieres comprobar su una variable es nula
+// Pero si quieres comprobar si una variable es nula
 // (undefined o null), ésta es la mejor opción.
 
 const fooo = null ?? 'default string'; // Si es null o undefined devuelve el valor de la derecha.
